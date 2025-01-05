@@ -41,7 +41,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
 4. **Tarayıcıda Açılması:**
 
-    [http://localhost:3000](http://localhost:3000) adresine gidin.
+    [http://localhost:5173/](http://localhost:5173/) adresine gidin.
 
 ---
 
