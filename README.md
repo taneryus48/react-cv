@@ -23,7 +23,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
     ```bash
     git clone https://github.com/your-username/react-cv.git
-    cd react-cv
+    cd taner-bas-cv 2-sreact-cv
     ```
 
 2. **Bağımlılıkların Yüklenmesi:**
