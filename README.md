@@ -22,8 +22,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 1. **Projenin Klonlanması:**
 
     ```bash
-    git clone https://github.com/your-username/react-cv.git
-    cd taner-bas-cv 2-sreact-cv
+     git clone https://github.com/taneryus48/TANER-BAS-CV-2.git
+     cd TANER-BAS-CV-2
     ```
 
 2. **Bağımlılıkların Yüklenmesi:**
