@@ -1,7 +1,6 @@
 # Taner Baş'ın React CV Projesi
 
-Bu proje, **React.js** kullanılarak geliştirilmiş bir kişisel CV uygulamasıdır. Kullanıcı dostu bir arayüz ve modern web tasarımıyla, kişisel bilgiler, iş deneyimleri, yetenekler ve referanslar gibi profesyonel detayları etkili bir şekilde sunar.
-
+Bu proje, **React.js** kullanılarak geliştirilmiş bir kişisel CV uygulamasıdır. Kullanıcı dostu bir arayüz ve modern web tasarımıyla, kişisel bilgiler, iş deneyimleri, yetenekler ve referanslar gibi profesyonel detayları etkili bir şekilde sunuyorum bu projemde.
 ---
 
 ## 🚀 Özellikler

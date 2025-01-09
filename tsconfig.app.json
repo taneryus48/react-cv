@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+
+    // React 17+ otomatik JSX dönüştürme
+    "jsx": "react-jsx",
+
+    // Default import'ları sorunsuz kullanmak için
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+
+    // Diğer ayarlar
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
